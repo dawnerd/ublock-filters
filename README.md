@@ -1,4 +1,6 @@
 # ublock-filters
 My custom set of ublock origin filters
 
-Import this url into your ublock origin. Fork it if you don't like my changes.
+Each site will have a file in sites/*
+
+Import each one into ublock origin. Form and remove any you dont want.
