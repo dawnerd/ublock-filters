@@ -1,11 +1,11 @@
 ! 5/12/2020 https://twitter.com
 twitter.com##[aria-label*="Trending"] a:has-text(/covid/i)
 
-! 5/14/2020 https://twitter.com
-twitter.com##div[aria-label*="Timeline: Explore"] div > div > div > a[href^="/i/events/"]
-
 ! 5/16/2020 https://twitter.com
 twitter.com##div[aria-label="Timeline: Trending now"] > div a:has-text(/live/i)
 
 ! 5/16/2020 https://twitter.com
 twitter.com##div:has(>aside[aria-label="Who to follow"])
+
+! 5/16/2020 https://twitter.com
+twitter.com##div:has(>a[href^="/i/events/"])
