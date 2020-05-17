@@ -1,6 +1,11 @@
 # ublock-filters
-My custom set of ublock origin filters
 
-Each site will have a file in sites/*
+I hate sites that do stupid stuff.
 
-Import each one into ublock origin. Form and remove any you dont want.
+## Usage
+
+Copy the url for the site you want me changes on into ublock origin (or whatever adblocker you use).
+
+## The Sites
+
+[Twitter](https://raw.githubusercontent.com/dawnerd/ublock-filters/master/sites/twitter.txt)
