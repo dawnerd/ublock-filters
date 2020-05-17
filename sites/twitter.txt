@@ -15,3 +15,6 @@ twitter.com##div:has(>div>div>div>span:has-text(/Find the latest COVID-19 update
 
 ! 5/16/2020 https://twitter.com
 twitter.com##div[role="presentation"] > a[role="tab"]:has-text(/covid/i)
+
+! 5/16/2020 https://twitter.com
+twitter.com##div[aria-label="Timeline: Explore"] div[style*="position: absolute"]:has(>div>div:empty)
