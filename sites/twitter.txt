@@ -6,3 +6,6 @@ twitter.com##div[aria-label*="Timeline: Explore"] div > div > div > a[href^="/i/
 
 ! 5/16/2020 https://twitter.com
 twitter.com##div[aria-label="Timeline: Trending now"] > div a:has-text(/live/i)
+
+! 5/16/2020 https://twitter.com
+twitter.com##div:has(>aside[aria-label="Who to follow"])
