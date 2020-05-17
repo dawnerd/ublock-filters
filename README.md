@@ -8,4 +8,5 @@ Copy the url for the site you want me changes on into ublock origin (or whatever
 
 ## The Sites
 
+[Misc Internet Wide](https://raw.githubusercontent.com/dawnerd/ublock-filters/master/sites/global.txt)
 [Twitter](https://raw.githubusercontent.com/dawnerd/ublock-filters/master/sites/twitter.txt)
