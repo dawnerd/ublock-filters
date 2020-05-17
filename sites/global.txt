@@ -1,0 +1,3 @@
+# This is one of those annoying fake chat windows
+# Updates title bar to make it look like you have a message
+||js.driftt.com/$subdocument
