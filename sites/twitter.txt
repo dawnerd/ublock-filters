@@ -21,3 +21,6 @@ twitter.com##div[aria-label="Timeline: Explore"] div[style*="position: absolute"
 
 ! 5/17/2020 https://twitter.com
 twitter.com##div:has(>div>div[aria-hidden="true"]>a[href^="/i/events/"])
+
+! 5/19/2020 https://twitter.com
+twitter.com##div[aria-label="Timeline: Explore"]>div>div>div:has(>div>div:empty)
