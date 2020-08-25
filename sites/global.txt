@@ -3,4 +3,4 @@
 ||js.driftt.com/$subdocument
 
 # That really annoying google onetap login modal that's kinda creepy
-##.google-onetap-element
+||accounts.google.com/gsi/iframe/select
