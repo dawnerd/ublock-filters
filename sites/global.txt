@@ -1,3 +1,6 @@
 # This is one of those annoying fake chat windows
 # Updates title bar to make it look like you have a message
 ||js.driftt.com/$subdocument
+
+# That really annoying google onetap login modal that's kinda creepy
+##.google-onetap-element
