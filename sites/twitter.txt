@@ -27,3 +27,6 @@ twitter.com##div[data-testid="DMDrawer"]
 
 ! 9/02/2020 https://twitter.com
 twitter.com##div[aria-label="Timeline: Trending now"] > div > div:has(svg[aria-label="Verified account"])
+
+! 9/02/2020 https://twitter.com
+twitter.com##div[aria-label="Timeline: Trending now"] > div > div > div:not(:has(div[aria-label="More"])):not(:has(h2))
