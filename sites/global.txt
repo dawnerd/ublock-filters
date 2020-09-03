@@ -1,6 +1,11 @@
 # This is one of those annoying fake chat windows
 # Updates title bar to make it look like you have a message
 ||js.driftt.com/$subdocument
+||connect.podium.com/$subdocument
+||assets.podium.com/$subdocument
+||mind-flayer.podium.com/$subdocument
+||avatars.podium.com/$subdocument
 
 # That really annoying google onetap login modal that's kinda creepy
 ||accounts.google.com/gsi/iframe/select
+
